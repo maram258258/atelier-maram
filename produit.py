@@ -10,3 +10,4 @@ print(" quantite en stock:",quantite)
 valeur =prix*quantite
 print("valeur totale du stock:",valeur,"DT")
 print(" w atatatatatata ")
+print(" maram nour anes ")
